@@ -1,8 +1,6 @@
-#2 Automation Challenge
+**#2 Automation Challenge**
 
-**Instructions to run the automated test**
-
-At the command line, first install Cypress and other test dependencies using
+To run, install Cypress and other test dependencies using
 
 ```shell
 npm install
